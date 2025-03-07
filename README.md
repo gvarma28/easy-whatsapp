@@ -1,6 +1,8 @@
-# WhatsApp Sender
+# Easy WhatsApp
 
 A simple, elegant web application that allows users to quickly send WhatsApp messages without saving contacts first.
+
+## [Try it now!](https://easy-whatsapp.vercel.app/?user=fio)
 
 ## Features
 
@@ -26,7 +28,7 @@ A simple, elegant web application that allows users to quickly send WhatsApp mes
 
 You can share links with pre-filled messages using the URL parameter:
 ```
-https://yourwebsite.com/?user=Alex
+https://easy-whatsapp.vercel.app/?user=Alex
 ```
 This will automatically set the message to "Hey there, I'm Alex."
 
