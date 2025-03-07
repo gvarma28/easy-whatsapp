@@ -2,7 +2,7 @@
 
 A simple, elegant web application that allows users to quickly send WhatsApp messages without saving contacts first.
 
-## [Try it now!](https://easy-whatsapp.vercel.app/?user=fio)
+## [Try it now!](https://easy-whatsapp.vercel.app/)
 
 ## Features
 
